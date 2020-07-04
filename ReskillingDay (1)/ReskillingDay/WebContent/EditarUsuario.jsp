@@ -7,6 +7,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Editar usuario</title>
+<link rel="stylesheet" href ="css/estilo.css"/>
 </head>
 <body>
 

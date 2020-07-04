@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+body{
+backgraund-color: #aqua;
+font-family: Verdana;
+font-size:14px;
+}
+
+h1{
+	color: yellow;
+	
+}
+
+h3{
+	color:red;
+	
+}
